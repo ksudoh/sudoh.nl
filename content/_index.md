@@ -58,9 +58,9 @@ Bachelor of Engineering, Kyoto University (2000)
 
 Apr. 2024–present: Professor at Nara Women's University
 
-Apr. 2024–present: Visiting Professor, Nara Institute of Science and Technology (NAIST)
+Apr. 2024–present: Affiliate Professor, Nara Institute of Science and Technology (NAIST)
 
-Apr. 2024–Mar. 2026: Invited Expert, National Institute of Information and Communications Technologies (NICT)
+Apr. 2024–Mar. 2026: Invited Advisor, National Institute of Information and Communications Technologies (NICT)
 
 Apr. 2022–Mar. 2026: Visiting Scientist, RIKEN AIP (Knowledge Acquisition Team)
 
