@@ -1,0 +1,20 @@
+- icon: twitter
+  url: https://twitter.com/katsuhito_sudoh/
+  labels:
+    en: "Twitter (@katsuhito_sudoh, English, less tweets)"
+    ja: "Twitter（@katsuhito_sudoh、英語、投稿少なめ）"
+- icon: twitter
+  url: https://twitter.com/katsuhitosudoh/
+  labels:
+    en: "Twitter (@katsuhitosudoh, Japanese, much noisy tweets :-)"
+    ja: "Twitter（@katsuhitosudoh、日本語、雑多な投稿多め :-)）"
+- icon: linkedin
+  url: https://www.linkedin.com/in/katsuhito-sudoh-90a83a50/
+  labels:
+    en: LinkedIn (Katsuhito Sudoh)
+    ja: LinkedIn（Katsuhito Sudoh）
+- icon: instagram
+  url: https://www.instagram.com/sudoh.k/
+  labels:
+    en: Instagram (@sudoh.k)
+    ja: Instagram（@sudoh.k）

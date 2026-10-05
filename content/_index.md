@@ -13,8 +13,7 @@ aliases: ["/home/"]
 Professor, Nara Women's University  
 Visiting Professor, Nara Institute of Science and Technology (NAIST)
 
-[Twitter (@katsuhito_sudoh, English, less tweets)](https://twitter.com/katsuhito_sudoh/)  
-[Twitter (@katsuhitosudoh, Japanese, much noisy tweets :-)](https://twitter.com/katsuhitosudoh/)
+{{< social-accounts >}}
 
 ## About me {#h.p_Ihl5z5hpzW8H}
 

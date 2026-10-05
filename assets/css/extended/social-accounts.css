@@ -1,0 +1,32 @@
+.post-content .account-list {
+  list-style: none;
+  margin: 1rem 0;
+  padding: 0;
+}
+
+.account-list li {
+  margin: 0;
+}
+
+.post-content .account-list a {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: .65rem;
+  min-height: 44px;
+  padding: .5rem .25rem;
+  border-radius: 4px;
+  box-shadow: none;
+  text-decoration: underline;
+  text-underline-offset: .2em;
+}
+
+.account-list-icon {
+  flex: 0 0 1.25rem;
+  margin-top: .15rem;
+}
+
+.account-list-icon svg {
+  display: block;
+  width: 1.25rem;
+  height: 1.25rem;
+}

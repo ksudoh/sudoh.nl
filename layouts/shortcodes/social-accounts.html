@@ -1,0 +1,13 @@
+{{- $lang := .Page.Language.Lang -}}
+<ul class="account-list">
+  {{- range site.Data.social_accounts }}
+  <li>
+    <a href="{{ .url }}" rel="me">
+      <span class="account-list-icon" aria-hidden="true">
+        {{- partial "svg.html" (dict "name" .icon) -}}
+      </span>
+      <span>{{ index .labels $lang | default (index .labels "en") }}</span>
+    </a>
+  </li>
+  {{- end }}
+</ul>

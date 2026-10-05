@@ -11,8 +11,7 @@ title: "須藤 克仁の個人Webページ (Katsuhito Sudoh)"
 奈良女子大学 教授  
 奈良先端科学技術大学院大学（NAIST）客員教授
 
-[Twitter（@katsuhito_sudoh、英語、投稿少なめ）](https://twitter.com/katsuhito_sudoh/)  
-[Twitter（@katsuhitosudoh、日本語、雑多な投稿多め :-)）](https://twitter.com/katsuhitosudoh/)
+{{< social-accounts >}}
 
 ## 自己紹介 {#h.p_Ihl5z5hpzW8H}
 

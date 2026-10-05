@@ -28,6 +28,10 @@ hugo --gc --minify
 目次・写真の代替テキストは `i18n/`、言語ごとのメニューは `hugo.toml` に設定します。
 英語で発表された論文のタイトルは日本語版でも原題を保持しています。
 
+アカウント一覧のリンク先と英語・日本語の表示名は `data/social_accounts.yaml` で管理します。
+両言語の本文で `social-accounts` ショートコードを使い、PaperMod同梱のSVGロゴを表示します。
+一覧のスタイルは `assets/css/extended/social-accounts.css` にあります。
+
 レイアウトはPaperModのまま、`assets/css/extended/slc-colors.css` で配色を調整しています。
 研究室の[公式公開リポジトリ](https://github.com/nara-wu-slc/nara-wu-slc.github.io)
 のCSSにあるオリーブグリーン（`#99ab4e`）を基準にし、文字には読みやすい濃淡を使用します。
