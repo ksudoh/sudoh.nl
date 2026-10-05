@@ -173,4 +173,6 @@ Computer administrator (mainly using Ubuntu)
 
 ## Publications {#h.p_lRTDZaSG19MQ}
 
-Researchmap (maintained manually): [https://researchmap.jp/sudoh/published_papers](https://researchmap.jp/sudoh/published_papers)Semantic Scholar: [https://www.semanticscholar.org/author/Katsuhito-Sudoh/1790811](https://www.semanticscholar.org/author/Katsuhito-Sudoh/1790811)dblp: [https://dblp.uni-trier.de/pers/hd/s/Sudoh:Katsuhito](https://dblp.uni-trier.de/pers/hd/s/Sudoh:Katsuhito)
+*Researchmap (maintained manually): [https://researchmap.jp/sudoh/published_papers](https://researchmap.jp/sudoh/published_papers)
+*Semantic Scholar: [https://www.semanticscholar.org/author/Katsuhito-Sudoh/1790811](https://www.semanticscholar.org/author/Katsuhito-Sudoh/1790811)
+*dblp: [https://dblp.uni-trier.de/pers/hd/s/Sudoh:Katsuhito](https://dblp.uni-trier.de/pers/hd/s/Sudoh:Katsuhito)

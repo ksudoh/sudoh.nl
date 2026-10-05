@@ -9,7 +9,7 @@ title: "須藤 克仁"
 {{< portrait >}}
 
 奈良女子大学 教授  
-奈良先端科学技術大学院大学（NAIST）連携教授
+奈良先端科学技術大学院大学（NAIST）客員教授
 
 [Google Scholar](https://scholar.google.co.jp/citations?user=bCF44lUAAAAJ&hl=en)  
 [Twitter（@katsuhito_sudoh、英語、投稿少なめ）](https://twitter.com/katsuhito_sudoh/)  
@@ -23,11 +23,8 @@ title: "須藤 克仁"
 
 [音声・言語・コミュニケーション研究室（Lab4SLC）](https://nara-wu-slc.github.io/)
 
-[奈良先端科学技術大学院大学（NAIST）](http://www.naist.jp/) 連携教授
-
-[自然言語処理学研究室](https://nlp.naist.jp/)
-
-ヒューマンAIインタラクション研究室
+[奈良先端科学技術大学院大学（NAIST）](http://www.naist.jp/) 客員教授
+（[自然言語処理学研究室](https://nlp.naist.jp/)）
 
 ### 連絡先 {#h.p_B50KH-yU1gjp}
 
@@ -60,9 +57,9 @@ mailto: ${surname} {0x40} ics.nara-wu.ac.jp
 
 2024年4月–現在：奈良女子大学 教授
 
-2024年4月–2026年3月：奈良先端科学技術大学院大学（NAIST）連携教授
+2024年4月–現在：奈良先端科学技術大学院大学（NAIST）客員教授
 
-2024年4月–2026年3月：情報通信研究機構（NICT）招へいアドバイザー
+2024年4月–2026年3月：情報通信研究機構（NICT）招へい専門員
 
 2022年4月–2026年3月：理化学研究所 革新知能統合研究センター（RIKEN AIP）客員研究員（知識獲得チーム）
 
@@ -76,15 +73,15 @@ mailto: ${surname} {0x40} ics.nara-wu.ac.jp
 
 ### 研究費 {#h.8tqc9qvrfsx5}
 
-#### 研究代表者として {#h.zlmlq4ob8om}
+#### 研究代表者 {#h.zlmlq4ob8om}
 
 2021年4月–2025年3月：自然言語の構成性に着目した機械翻訳の研究、日本学術振興会（JSPS）科学研究費助成事業（科研費）基盤研究（B）
 
 2018年10月–2022年3月：次世代自然言語生成のための評価基盤、科学技術振興機構（JST）さきがけ
 
-#### 研究分担者として {#h.rnxdaol0qe7c}
+#### 研究分担者 {#h.rnxdaol0qe7c}
 
-2021年7月–2026年3月：マルチモーダル自動同時通訳システムと評価方法の研究、日本学術振興会（JSPS）科学研究費助成事業（科研費）基盤研究（S）［研究代表者：中村哲（NAIST）］
+2021年7月–2026年3月：多元自動通訳システムと評価法に関する研究とその応用展開、日本学術振興会（JSPS）科学研究費助成事業（科研費）基盤研究（S）［研究代表者：中村哲（NAIST）］
 
 2022年4月–2026年3月：言語で記述された常識と実世界の観測を統合するロボットの知識推論システム、日本学術振興会（JSPS）科学研究費助成事業（科研費）基盤研究（B）［研究代表者：吉野幸一郎（理化学研究所）］
 
@@ -96,6 +93,7 @@ mailto: ${surname} {0x40} ics.nara-wu.ac.jp
 
 ### 学会活動 {#h.p_4Xn4QmKO0I_q}
 
+#### 学会役員・委員
 2021年6月–現在：アジア太平洋機械翻訳協会（AAMT）理事
 
 2016年4月–現在：AAMT/Japio特許翻訳研究会 副委員長（2012年4月–：委員）
@@ -106,21 +104,24 @@ mailto: ${surname} {0x40} ics.nara-wu.ac.jp
 
 2021年4月–2022年3月：情報処理学会 自然言語処理研究会（SIG-NL）幹事
 
-2019年8月：第8回特許・科学文献翻訳ワークショップ（PSLT 2019）共同オーガナイザー
-
 2018年6月–2022年5月：情報処理学会論文誌・Journal of Information Processing（JIP）編集委員
 
 2014年9月–2018年9月：論文誌「自然言語処理」（JNLP）編集委員
 
-2017年12月：第14回音声言語翻訳国際ワークショップ（IWSLT 2017）評価部門共同委員長
+#### 国際会議委員
 
-2017年9月：第7回特許・科学文献翻訳ワークショップ（PSLT 2017）共同オーガナイザー
+2025年: LREC-COLING 2025 Workshop Co-Chair
 
-2015年10月：第6回特許・科学文献翻訳ワークショップ（PSLT 2015）共同オーガナイザー
+#### その他国際会議活動
+
+2015年-現在：Workshop on Patent and Scientific Literature Translation (PSLT) Workshop Co-Chair
+
+2021年-2026年：International Conference on Spoken Language Translation（IWSLT）Task Organizer: Simulaneous Speech Translation
+
 
 ### 担当講義 {#h.p_z7B-uyUV0M1i}
 
-#### 大学院の講義 {#h.4ulpuitf0qh4}
+#### 大学院 {#h.4ulpuitf0qh4}
 
 2024年–現在：大規模言語モデル特論、奈良女子大学大学院 人間文化総合科学研究科（全15回、日本語）
 
@@ -136,9 +137,9 @@ mailto: ${surname} {0x40} ics.nara-wu.ac.jp
 
 2019年：データサイエンスII、NAIST先端科学技術研究科（全8回中1回）
 
-2018年–2019年：機械学習、NAIST先端科学技術研究科（全8回中2回）
+2018年–2019年：機械学習概論、NAIST先端科学技術研究科（全8回中2回）
 
-#### 学部の講義 {#h.6n2add43b3o}
+#### 学部 {#h.6n2add43b3o}
 
 2024年–現在：パターン認識、奈良女子大学 生活環境学部（全15回、日本語）
 
@@ -154,17 +155,17 @@ mailto: ${surname} {0x40} ics.nara-wu.ac.jp
 
 2020年3月：言語処理学会年次大会 優秀賞、「鏡映変換に基づく埋め込み空間上の単語属性変換」［共著］
 
-2019年8月：ConvAI 2019 最優秀論文賞（Best Paper Award）、"Conversational Response Re-ranking Based on Event Causality and Role Factored Tensor Event Embedding"［共著］
+2019年8月：ConvAI 2019 Best Paper Award, "Conversational Response Re-ranking Based on Event Causality and Role Factored Tensor Event Embedding"［共著］
 
-2018年10月：IWSLT 2018 最優秀学生論文賞（Best Student Paper Award）、"Multi-Source Neural Machine Translation with Data Augmentation"［共著］
+2018年10月：IWSLT 2018 Best Student Paper Award, "Multi-Source Neural Machine Translation with Data Augmentation"［共著］
 
-2015年3月：論文誌「自然言語処理」論文賞、「単語並べ替えと冠詞生成の同時逐次処理：日英機械翻訳への適用」［共著］
+2015年3月：論文誌「自然言語処理」論文賞「単語並べ替えと冠詞生成の同時逐次処理：日英機械翻訳への適用」［共著］
 
-2012年3月：言語処理学会年次大会 優秀賞、「RIBES: 順位相関に基づく翻訳の自動評価法」［共著］
+2012年3月：言語処理学会年次大会 優秀賞「RIBES: 順位相関に基づく翻訳の自動評価法」［共著］
 
-2011年11月：IJCNLP 2011 最優秀論文賞 最終候補（Best Paper Finalist）、"Extracting Pre-ordering Rules from Predicate Argument Structures"［共著］
+2011年11月：IJCNLP 2011 Best Paper Finalist, "Extracting Pre-ordering Rules from Predicate Argument Structures"［共著］
 
-2006年7月：COLING/ACL 2006 AFNLP Meritorious Asian NLP Paper Award、"Incorporating Speech Recognition Confidence into Discriminative Named Entity Recognition of Speech Data"
+2006年7月：COLING/ACL 2006 AFNLP Meritorious Asian NLP Paper Award, "Incorporating Speech Recognition Confidence into Discriminative Named Entity Recognition of Speech Data"
 
 ### その他 {#h.p_a-ohIs8dB7ru}
 
@@ -172,6 +173,6 @@ mailto: ${surname} {0x40} ics.nara-wu.ac.jp
 
 ## 研究業績 {#h.p_lRTDZaSG19MQ}
 
-Researchmap（手動で更新）：[https://researchmap.jp/sudoh/published_papers](https://researchmap.jp/sudoh/published_papers)  
-Semantic Scholar：[https://www.semanticscholar.org/author/Katsuhito-Sudoh/1790811](https://www.semanticscholar.org/author/Katsuhito-Sudoh/1790811)  
-dblp：[https://dblp.uni-trier.de/pers/hd/s/Sudoh:Katsuhito](https://dblp.uni-trier.de/pers/hd/s/Sudoh:Katsuhito)
+*Researchmap（手動で更新）：[https://researchmap.jp/sudoh/published_papers](https://researchmap.jp/sudoh/published_papers)
+*Semantic Scholar：[https://www.semanticscholar.org/author/Katsuhito-Sudoh/1790811](https://www.semanticscholar.org/author/Katsuhito-Sudoh/1790811)
+*dblp：[https://dblp.uni-trier.de/pers/hd/s/Sudoh:Katsuhito](https://dblp.uni-trier.de/pers/hd/s/Sudoh:Katsuhito)
