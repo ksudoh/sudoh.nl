@@ -1,0 +1,59 @@
+/* Lab4SLC's published palette: olive #99ab4e, pale olive #ebeedc.
+   Use a darker olive for text to keep it readable against light surfaces. */
+:root {
+  --slc-olive: #99ab4e;
+  --slc-ink: #536126;
+  --slc-hover: #3d441f;
+  --code-bg: #f5f6ee;
+  --border: #d6ddb8;
+}
+
+:root[data-theme="dark"] {
+  --slc-ink: #c5d491;
+  --slc-hover: #e2ebc6;
+  --code-bg: #292e22;
+  --border: #465135;
+}
+
+.header {
+  border-top: 4px solid var(--slc-olive);
+  border-bottom: 1px solid var(--border);
+}
+
+.logo > a,
+.menu a,
+.post-content :is(h2, h3, h4),
+.post-content a:not(.anchor) {
+  color: var(--slc-ink);
+}
+
+.post-content a:not(.anchor):hover,
+.header-nav a:hover {
+  color: var(--slc-hover);
+}
+
+.section-menu {
+  border-left: 4px solid var(--slc-olive);
+}
+
+.lang-menu a {
+  min-height: 44px;
+  padding: 0 .75rem;
+  line-height: 1.4;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--code-bg);
+  color: var(--slc-ink);
+  white-space: nowrap;
+}
+
+.header-nav a:focus-visible,
+.post-content a:focus-visible,
+.header-nav button:focus-visible {
+  outline: 2px solid var(--slc-ink);
+  outline-offset: 3px;
+}
+
+html[lang="ja"] body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
+}

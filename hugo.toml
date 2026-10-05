@@ -1,0 +1,73 @@
+baseURL = 'https://www.sudoh.nl/'
+title = 'Katsuhito Sudoh'
+languageCode = 'en'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+disablePathToLower = true
+theme = 'PaperMod'
+enableRobotsTXT = true
+
+[params]
+  description = "Katsuhito Sudoh, Ph.D. — Professor at Nara Women's University. Natural language processing, machine translation, and spoken language processing."
+  defaultTheme = 'auto'
+  ShowBreadCrumbs = false
+  ShowReadingTime = false
+  ShowShareButtons = false
+  disableSpecial1stPost = true
+  displayFullLangName = true
+
+[params.assets]
+  theme_color = '#99ab4e'
+
+[languages.en]
+  languageName = 'English'
+  languageCode = 'en'
+  weight = 1
+
+[languages.ja]
+  languageName = '日本語'
+  languageCode = 'ja'
+  title = '須藤 克仁'
+  weight = 2
+
+[languages.ja.params]
+  description = '須藤克仁 — 奈良女子大学教授。自然言語処理、機械翻訳、音声言語処理を研究しています。'
+
+[[languages.en.menus.main]]
+  name = 'About'
+  url = '/#h.p_Ihl5z5hpzW8H'
+  weight = 10
+[[languages.en.menus.main]]
+  name = 'Research'
+  url = '/#h.p_HXuBkt-vzyvy'
+  weight = 20
+[[languages.en.menus.main]]
+  name = 'Publications'
+  url = '/#h.p_lRTDZaSG19MQ'
+  weight = 30
+[[languages.en.menus.main]]
+  name = 'Contact'
+  url = '/#h.p_B50KH-yU1gjp'
+  weight = 40
+
+[[languages.ja.menus.main]]
+  name = '自己紹介'
+  url = '#h.p_Ihl5z5hpzW8H'
+  weight = 10
+[[languages.ja.menus.main]]
+  name = '研究'
+  url = '#h.p_HXuBkt-vzyvy'
+  weight = 20
+[[languages.ja.menus.main]]
+  name = '研究業績'
+  url = '#h.p_lRTDZaSG19MQ'
+  weight = 30
+[[languages.ja.menus.main]]
+  name = '連絡先'
+  url = '#h.p_B50KH-yU1gjp'
+  weight = 40
+
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 3
+  ordered = false
