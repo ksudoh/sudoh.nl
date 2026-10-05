@@ -1,5 +1,5 @@
 baseURL = 'https://www.sudoh.nl/'
-title = 'Katsuhito Sudoh'
+title = "Katsuhito Sudoh's personal Website"
 languageCode = 'en'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
@@ -27,7 +27,7 @@ enableRobotsTXT = true
 [languages.ja]
   languageName = '日本語'
   languageCode = 'ja'
-  title = '須藤 克仁'
+  title = '須藤 克仁の個人Webページ (Katsuhito Sudoh)'
   weight = 2
 
 [languages.ja.params]
