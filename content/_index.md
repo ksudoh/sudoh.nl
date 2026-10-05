@@ -13,7 +13,6 @@ aliases: ["/home/"]
 Professor, Nara Women's University  
 Visiting Professor, Nara Institute of Science and Technology (NAIST)
 
-[Google Scholar](https://scholar.google.co.jp/citations?user=bCF44lUAAAAJ&hl=en)  
 [Twitter (@katsuhito_sudoh, English, less tweets)](https://twitter.com/katsuhito_sudoh/)  
 [Twitter (@katsuhitosudoh, Japanese, much noisy tweets :-)](https://twitter.com/katsuhitosudoh/)
 
@@ -135,5 +134,6 @@ mailto: ${surname} {0x40} ics.nara-wu.ac.jp
 ## Publications {#h.p_lRTDZaSG19MQ}
 
 * Researchmap (maintained manually): [https://researchmap.jp/sudoh/published_papers](https://researchmap.jp/sudoh/published_papers)
+* Google Scholar: [https://scholar.google.co.jp/citations?user=bCF44lUAAAAJ&hl=en](https://scholar.google.co.jp/citations?user=bCF44lUAAAAJ&hl=en)
 * Semantic Scholar: [https://www.semanticscholar.org/author/Katsuhito-Sudoh/1790811](https://www.semanticscholar.org/author/Katsuhito-Sudoh/1790811)
 * dblp: [https://dblp.uni-trier.de/pers/hd/s/Sudoh:Katsuhito](https://dblp.uni-trier.de/pers/hd/s/Sudoh:Katsuhito)

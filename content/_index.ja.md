@@ -11,7 +11,6 @@ title: "須藤 克仁の個人Webページ (Katsuhito Sudoh)"
 奈良女子大学 教授  
 奈良先端科学技術大学院大学（NAIST）客員教授
 
-[Google Scholar](https://scholar.google.co.jp/citations?user=bCF44lUAAAAJ&hl=en)  
 [Twitter（@katsuhito_sudoh、英語、投稿少なめ）](https://twitter.com/katsuhito_sudoh/)  
 [Twitter（@katsuhitosudoh、日本語、雑多な投稿多め :-)）](https://twitter.com/katsuhitosudoh/)
 
@@ -133,6 +132,7 @@ mailto: ${surname} {0x40} ics.nara-wu.ac.jp
 
 ## 研究業績 {#h.p_lRTDZaSG19MQ}
 
-* Researchmap（手動更新）：[https://researchmap.jp/sudoh/published_papers](https://researchmap.jp/sudoh/published_papers)
-* Semantic Scholar：[https://www.semanticscholar.org/author/Katsuhito-Sudoh/1790811](https://www.semanticscholar.org/author/Katsuhito-Sudoh/1790811)
-* dblp：[https://dblp.uni-trier.de/pers/hd/s/Sudoh:Katsuhito](https://dblp.uni-trier.de/pers/hd/s/Sudoh:Katsuhito)
+* Researchmap（手動更新）: [https://researchmap.jp/sudoh/published_papers](https://researchmap.jp/sudoh/published_papers)
+* Google Scholar: [https://scholar.google.co.jp/citations?user=bCF44lUAAAAJ&hl=en](https://scholar.google.co.jp/citations?user=bCF44lUAAAAJ&hl=en)
+* Semantic Scholar: [https://www.semanticscholar.org/author/Katsuhito-Sudoh/1790811](https://www.semanticscholar.org/author/Katsuhito-Sudoh/1790811)
+* dblp: [https://dblp.uni-trier.de/pers/hd/s/Sudoh:Katsuhito](https://dblp.uni-trier.de/pers/hd/s/Sudoh:Katsuhito)
