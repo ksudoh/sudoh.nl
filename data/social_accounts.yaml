@@ -1,13 +1,13 @@
-- icon: twitter
-  url: https://twitter.com/katsuhito_sudoh/
+- icon: x
+  url: https://x.com/katsuhito_sudoh/
   labels:
-    en: "Twitter (@katsuhito_sudoh, English, less tweets)"
-    ja: "Twitter（@katsuhito_sudoh、英語、投稿少なめ）"
-- icon: twitter
-  url: https://twitter.com/katsuhitosudoh/
+    en: "X (@katsuhito_sudoh, English, less tweets)"
+    ja: "X（@katsuhito_sudoh、英語、投稿少なめ）"
+- icon: x
+  url: https://x.com/katsuhitosudoh/
   labels:
-    en: "Twitter (@katsuhitosudoh, Japanese, much noisy tweets :-)"
-    ja: "Twitter（@katsuhitosudoh、日本語、雑多な投稿多め :-)）"
+    en: "X (@katsuhitosudoh, Japanese, much noisy tweets :-)"
+    ja: "X（@katsuhitosudoh、日本語、雑多な投稿多め :-)）"
 - icon: linkedin
   url: https://www.linkedin.com/in/katsuhito-sudoh-90a83a50/
   labels:
