@@ -93,7 +93,7 @@ mailto: ${surname} {0x40} ics.nara-wu.ac.jp
 
 ### 学会活動 {#h.p_4Xn4QmKO0I_q}
 
-#### 学会役員・委員
+#### 学会役員・委員 {#academic-society-service}
 2021年6月–現在：アジア太平洋機械翻訳協会（AAMT）理事
 
 2016年4月–現在：AAMT/Japio特許翻訳研究会 副委員長（2012年4月–：委員）
@@ -108,11 +108,11 @@ mailto: ${surname} {0x40} ics.nara-wu.ac.jp
 
 2014年9月–2018年9月：論文誌「自然言語処理」（JNLP）編集委員
 
-#### 国際会議委員
+#### 国際会議委員 {#international-conference-committees}
 
 2025年: LREC-COLING 2025 Workshop Co-Chair
 
-#### その他国際会議活動
+#### その他国際会議活動 {#other-international-conference-activities}
 
 2015年-現在：Workshop on Patent and Scientific Literature Translation (PSLT) Workshop Co-Chair
 

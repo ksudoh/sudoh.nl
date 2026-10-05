@@ -11,7 +11,7 @@ aliases: ["/home/"]
 {{< portrait >}}
 
 Professor, Nara Women's University  
-Affiliate Professor, Nara Institute of Science and Technology (NAIST)
+Visiting Professor, Nara Institute of Science and Technology (NAIST)
 
 [Google Scholar](https://scholar.google.co.jp/citations?user=bCF44lUAAAAJ&hl=en)  
 [Twitter (@katsuhito_sudoh, English, less tweets)](https://twitter.com/katsuhito_sudoh/)  
@@ -25,11 +25,8 @@ Professor at [Nara Women's University](https://www.nara-wu.ac.jp/)
 
 [Laboratory for Speech, Language, and Communication (Lab4SLC)](https://nara-wu-slc.github.io/)
 
-Affiliate Professor, [Nara Institute of Science and Technology (NAIST)](http://www.naist.jp/)
-
-[Natural Language Processing Laboratory](https://nlp.naist.jp/)
-
-Human AI Interaction Laboratory
+Visiting Professor, [Nara Institute of Science and Technology (NAIST)](http://www.naist.jp/)
+([Natural Language Processing Laboratory](https://nlp.naist.jp/))
 
 ### Contact {#h.p_B50KH-yU1gjp}
 
@@ -61,9 +58,9 @@ Bachelor of Engineering, Kyoto University (2000)
 
 Apr. 2024–present: Professor at Nara Women's University
 
-Apr. 2024–Mar. 2026: Affiliate Professor, Nara Institute of Science and Technology (NAIST)
+Apr. 2024–present: Visiting Professor, Nara Institute of Science and Technology (NAIST)
 
-Apr. 2024–Mar. 2026: Invited Advisor, National Institute of Information and Communications Technologies (NICT)
+Apr. 2024–Mar. 2026: Invited Expert, National Institute of Information and Communications Technologies (NICT)
 
 Apr. 2022–Mar. 2026: Visiting Scientist, RIKEN AIP (Knowledge Acquisition Team)
 
@@ -77,15 +74,15 @@ Apr. 2002–Mar. 2017: Communication Science Laboratories, Nippon Telegraph and 
 
 ### Grants {#h.8tqc9qvrfsx5}
 
-#### As the Principal Investigator {#h.zlmlq4ob8om}
+#### Principal Investigator {#h.zlmlq4ob8om}
 
 Apr. 2021–Mar. 2025: Study on Machine Translation Focusing on Compositionality of Natural Language, Grants-in-Aid for Scientific Research Grant-in-Aid (KAKENHI) for Scientific Research (B), Japan Society for the Promotion of Science (JSPS)
 
 Oct. 2018–Mar. 2022: Evaluation Framework for Next-Generation Natural Language Generation, PRESTO, Japan Science and Technology Agency (JST)
 
-#### As a Co-investigator {#h.rnxdaol0qe7c}
+#### Co-investigator {#h.rnxdaol0qe7c}
 
-Jul. 2021–Mar. 2026: A Study on Multi-modal Automatic Simultaneous Interpretation System and Evaluation Method, Grants-in-Aid for Scientific Research Grant-in-Aid (KAKENHI) for Scientific Research (S), Japan Society for the Promotion of Science (JSPS) [PI: Satoshi Nakamura (NAIST)]
+Jul. 2021–Mar. 2026: Research on Multi-modal Automatic Interpretation Systems and Evaluation Methods and Their Applications, Grants-in-Aid for Scientific Research Grant-in-Aid (KAKENHI) for Scientific Research (S), Japan Society for the Promotion of Science (JSPS) [PI: Satoshi Nakamura (NAIST)]
 
 Apr. 2022–Mar. 2026: Knowledge Inference System for Robots Integrating Common Sense described in Languages and Observation in the Real World, Grant-in-Aid (KAKENHI) for Scientific Research (B), Japan Society for the Promotion of Science (JSPS) [PI: Koichiro Yoshino (RIKEN)]
 
@@ -97,6 +94,8 @@ Apr. 2007–Mar. 2009: Statistical Machine Translation based on Large-scale Dist
 
 ### Academic activities {#h.p_4Xn4QmKO0I_q}
 
+#### Academic society officers and committees {#academic-society-service}
+
 Jun. 2021–present: Director (Board member), Asia-Pacific Association for Machine Translation (AAMT)
 
 Apr. 2016–present: Vice Chairperson, AAMT/Japio Special Interest Group on Patent Translation (Apr. 2012-: Committee member)
@@ -107,17 +106,19 @@ Mar. 2022–Mar. 2026: Director (Board member), Association for Natural Language
 
 Apr. 2021–Mar. 2022: Secretary, Special Interest Group on Natural Language Processing (SIG-NL), Information Processing Society of Japan (IPSJ)
 
-Aug. 2019: Workshop co-organizer, The 8th Workshop on Patent and Scientific Literature Translation (PSLT 2019)
-
 Jun. 2018–May 2022: Associate Editor, IPSJ Journal & Journal of Information Processing (JIP), Information Processing Society of Japan (IPSJ)
 
 Sep. 2014–Sep. 2018: Associate Editor, Journal of Natural Language Processing (JNLP)
 
-Dec. 2017: Evaluation co-chair, The 14th International Workshop on Spoken Language Translation (IWSLT 2017)
+#### International conference committees {#international-conference-committees}
 
-Sep. 2017: Workshop co-organizer, The 7th Workshop on Patent and Scientific Literature Translation (PSLT 2017)
+2025: Workshop Co-Chair, LREC-COLING 2025
 
-Oct. 2015: Workshop co-organizer, The 6th Workshop on Patent and Scientific Literature Translation (PSLT 2015)
+#### Other international conference activities {#other-international-conference-activities}
+
+2015–present: Workshop Co-Chair, Workshop on Patent and Scientific Literature Translation (PSLT)
+
+2021–2026: Task Organizer for Simultaneous Speech Translation, International Conference on Spoken Language Translation (IWSLT)
 
 ### Teaching {#h.p_z7B-uyUV0M1i}
 
@@ -137,7 +138,7 @@ Oct. 2015: Workshop co-organizer, The 6th Workshop on Patent and Scientific Lite
 
 2019: Data Science II, Graduate School of Science and Technology, NAIST (1 session out of 8)
 
-2018–2019: Machine Learning, Graduate School of Science and Technology, NAIST (2 sessions out of 8)
+2018–2019: Introduction to Machine Learning (機械学習概論), Graduate School of Science and Technology, NAIST (2 sessions out of 8)
 
 #### Undergraduate Courses {#h.6n2add43b3o}
 
@@ -145,9 +146,9 @@ Oct. 2015: Workshop co-organizer, The 6th Workshop on Patent and Scientific Lite
 
 2024–present: Human Life and Artificial Intelligence (生活と人工知能), Faculty of Human Life and Environment, Nara Women's University (15 sessions, in Japanese)
 
-2024–present: Culture, Humanities and AI (生活文化と人工知能), Faculty of Human Life and Environment, Nara Women's University (15 sessions, in Japanese)
+2024–present: Life, Culture, and Artificial Intelligence (生活文化と人工知能), Faculty of Human Life and Environment, Nara Women's University (15 sessions, in Japanese)
 
-2016: Machine Translation (翻訳解析), Faculty of Culture and Information Science, Doshisha University (15 sessions, in Japanese)
+2016: Translation Analysis (翻訳解析), Faculty of Culture and Information Science, Doshisha University (15 sessions, in Japanese)
 
 2015-2016: Speech Information Processing (音声情報処理), Faculty of Informatics, Kansai University (3 sessions out of 15, in Japanese)
 
@@ -159,7 +160,7 @@ Aug. 2019: Best Paper Award in ConvAI 2019, "Conversational Response Re-ranking 
 
 Oct. 2018: Best Student Paper Award in IWSLT 2018, "Multi-Source Neural Machine Translation with Data Augmentation" [co-authored]
 
-Mar. 2015: Outstanding Paper Award of Journal of Natural Language Processing, "Incremental Word Re-Ordering and Article Generation: Its Application to Japanese-to-English Machine Translation (In Japanese: 単語並べ替えと冠詞生成の同時逐次処理：日英機械翻訳への適用) [co-authored]
+Mar. 2015: Outstanding Paper Award of Journal of Natural Language Processing, "Incremental Word Re-Ordering and Article Generation: Its Application to Japanese-to-English Machine Translation" (In Japanese: 単語並べ替えと冠詞生成の同時逐次処理：日英機械翻訳への適用) [co-authored]
 
 Mar. 2012: Outstanding Presentation Award in Annual Meeting of the Association of Natural Language Processing, "RIBES: 順位相関に基づく翻訳の自動評価法" [co-authored]
 
