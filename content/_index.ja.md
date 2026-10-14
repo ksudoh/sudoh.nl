@@ -89,7 +89,7 @@ mailto: ${surname} {0x40} ics.nara-wu.ac.jp
 #### 国際会議委員 {#international-conference-committees}
 
 * 2027年: ACL 2027 Local Arrangement Co-Chair (予定)
-* 2025年: LREC-COLING 2025 Workshop Co-Chair
+* 2025年: COLING 2025 Workshop Co-Chair
 
 #### その他国際会議活動 {#other-international-conference-activities}
 
