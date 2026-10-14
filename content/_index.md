@@ -22,7 +22,7 @@ Visiting Professor, Nara Institute of Science and Technology (NAIST)
 Professor at [Nara Women's University](https://www.nara-wu.ac.jp/)
 [Laboratory for Speech, Language, and Communication (Lab4SLC)](https://nara-wu-slc.jp/)
 
-Visiting Professor, [Nara Institute of Science and Technology (NAIST)](http://www.naist.jp/)
+Affiliate Professor, [Nara Institute of Science and Technology (NAIST)](http://www.naist.jp/)
 ([Natural Language Processing Laboratory](https://nlp.naist.jp/))
 
 ### Contact {#h.p_B50KH-yU1gjp}
